@@ -5,7 +5,15 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
+    "ginza>=5.2.0",
+    "ipadic>=1.0.0",
     "ipykernel>=7.1.0",
+    "ja-ginza>=5.2.0",
+    "janome>=0.5.0",
+    "matplotlib>=3.10.7",
+    "mecab-python3>=1.0.12",
     "pandas>=2.3.3",
     "requests>=2.32.5",
+    "sudachidict-core>=20251022",
+    "sudachipy>=0.6.10",
 ]
