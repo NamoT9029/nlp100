@@ -1,0 +1,7 @@
+==== sample ====
+text: the worst movie I 've ever seen
+pred: 0
+
+==== input ====
+text: I have a great pen.
+pred: 1

@@ -1,0 +1,21 @@
+=========== train ===========
+              precision    recall  f1-score   support
+
+           0       0.93      0.94      0.93     29340
+           1       0.95      0.94      0.95     38009
+
+    accuracy                           0.94     67349
+   macro avg       0.94      0.94      0.94     67349
+weighted avg       0.94      0.94      0.94     67349
+
+
+===========  dev  ===========
+              precision    recall  f1-score   support
+
+           0       0.78      0.82      0.80       405
+           1       0.84      0.80      0.82       467
+
+    accuracy                           0.81       872
+   macro avg       0.81      0.81      0.81       872
+weighted avg       0.81      0.81      0.81       872
+

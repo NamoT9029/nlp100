@@ -1,0 +1,45 @@
+======= top 20 =======
+    feature   weight
+ refreshing 3.432245
+ remarkable 3.426364
+   powerful 3.222488
+  hilarious 3.181129
+  beautiful 3.000538
+  wonderful 2.973397
+      prose 2.926073
+   terrific 2.871249
+  appealing 2.856717
+  enjoyable 2.813075
+      treat 2.802878
+    charmer 2.752802
+    vividly 2.715877
+    likable 2.692697
+      solid 2.651852
+   charming 2.622462
+fascinating 2.618233
+   half-bad 2.617288
+ impressive 2.596684
+ intriguing 2.565665
+
+======= bottom 20 =======
+      feature    weight
+      lacking -4.335698
+        lacks -4.080005
+        worst -3.985596
+       devoid -3.655543
+         mess -3.619303
+      failure -3.581195
+       stupid -3.346507
+         bore -3.257444
+         flat -3.224707
+   depressing -3.197959
+        loses -3.173868
+        waste -3.158301
+         lack -3.059305
+    squanders -3.036524
+       hardly -3.026045
+         none -3.021846
+         poor -2.984372
+    pointless -2.960082
+unfortunately -2.942676
+        lousy -2.935140
