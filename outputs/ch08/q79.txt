@@ -1,0 +1,14 @@
+Epoch 1 Loss 0.687594
+Epoch 2 Loss 0.347568
+Epoch 3 Loss 0.204433
+Epoch 4 Loss 0.162621
+Epoch 5 Loss 0.142150
+Epoch 6 Loss 0.125173
+Epoch 7 Loss 0.114770
+Epoch 8 Loss 0.107812
+Epoch 9 Loss 0.101990
+Epoch 10 Loss 0.098948
+Epoch 11 Loss 0.092720
+Epoch 12 Loss 0.089049
+Epoch 13 Loss 0.089063
+0.7981651376146789

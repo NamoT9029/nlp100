@@ -1,0 +1,5 @@
+train_data: 67349
+dev_data: 872
+train: 66650
+dev: 872
+{'text': 'hide new secretions from the parental units ', 'label': tensor([0.]), 'input_ids': tensor([  5785,     66, 113845,     18,     12,  15095,   1594])}
