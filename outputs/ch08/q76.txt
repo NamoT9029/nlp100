@@ -1,21 +1,23 @@
-Epoch 1 Loss 0.646589
-Epoch 2 Loss 0.586502
-Epoch 3 Loss 0.546942
-Epoch 4 Loss 0.518584
-Epoch 5 Loss 0.497542
-Epoch 6 Loss 0.481753
-Epoch 7 Loss 0.469700
-Epoch 8 Loss 0.459423
-Epoch 9 Loss 0.451359
-Epoch 10 Loss 0.444975
-Epoch 11 Loss 0.438752
-Epoch 12 Loss 0.434416
-Epoch 13 Loss 0.429767
-Epoch 14 Loss 0.425980
-Epoch 15 Loss 0.422982
-Epoch 16 Loss 0.420516
-Epoch 17 Loss 0.417038
-Epoch 18 Loss 0.415366
-Epoch 19 Loss 0.413426
-Epoch 20 Loss 0.411077
-0.7889908256880734
+Use cpu
+Epoch 1 Loss 0.644404
+Epoch 2 Loss 0.585853
+Epoch 3 Loss 0.546435
+Epoch 4 Loss 0.519287
+Epoch 5 Loss 0.497177
+Epoch 6 Loss 0.482711
+Epoch 7 Loss 0.469937
+Epoch 8 Loss 0.459361
+Epoch 9 Loss 0.452123
+Epoch 10 Loss 0.444628
+Epoch 11 Loss 0.439041
+Epoch 12 Loss 0.433908
+Epoch 13 Loss 0.429956
+Epoch 14 Loss 0.425951
+Epoch 15 Loss 0.423125
+Epoch 16 Loss 0.419797
+Epoch 17 Loss 0.417536
+Epoch 18 Loss 0.414890
+Epoch 19 Loss 0.413252
+Epoch 20 Loss 0.411069
+time: 24.01 sec
+0.7935779816513762

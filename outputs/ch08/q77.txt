@@ -1,0 +1,23 @@
+Use cuda
+Epoch 1 Loss 0.642710
+Epoch 2 Loss 0.583047
+Epoch 3 Loss 0.544332
+Epoch 4 Loss 0.516792
+Epoch 5 Loss 0.496510
+Epoch 6 Loss 0.481050
+Epoch 7 Loss 0.468514
+Epoch 8 Loss 0.458496
+Epoch 9 Loss 0.450764
+Epoch 10 Loss 0.444338
+Epoch 11 Loss 0.438147
+Epoch 12 Loss 0.433797
+Epoch 13 Loss 0.429253
+Epoch 14 Loss 0.425500
+Epoch 15 Loss 0.422289
+Epoch 16 Loss 0.420319
+Epoch 17 Loss 0.416963
+Epoch 18 Loss 0.414743
+Epoch 19 Loss 0.412977
+Epoch 20 Loss 0.410912
+time: 45.55 sec
+0.7924311926605505

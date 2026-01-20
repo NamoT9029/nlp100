@@ -7,6 +7,7 @@ from torch.utils.data import DataLoader
 import torch.nn as nn 
 from dotenv import load_dotenv
 import os
+import time
 
 load_dotenv()
 PROJECT_ROOT = os.getenv('PROJECT_ROOT')
@@ -43,6 +44,9 @@ def main():
 
     loss_hist = []
 
+    print(f"Use {device}")
+
+    start = time.time()
     for epoch in range(epochs):
         epoch_loss = 0
         for x, y in train_dl:
@@ -64,6 +68,8 @@ def main():
             if avg_loss > loss_hist[epoch-1]:
                 break
         loss_hist.append(avg_loss)
+    end = time.time()
+    print("time: {:.2f} sec".format(end-start))
     print(cal_acc(model, dev_dl, device))
 if __name__ == "__main__":
     main()
