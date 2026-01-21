@@ -15,6 +15,7 @@ PROJECT_ROOT = os.getenv('PROJECT_ROOT')
 def cal_acc(model, dev_dl, device):
     correct = 0
     total = 0
+    model.eval()
     with torch.no_grad():
         for x, y in dev_dl:
             x = x.to(device)
@@ -36,7 +37,7 @@ def main():
     loss_fn = nn.BCELoss()
     optimizer = torch.optim.Adam(model.parameters(),lr=lr)
     batch_size = 256
-
+    model.train()
     train_ds = MyDataset(train)
     dev_ds = MyDataset(dev)
     train_dl = DataLoader(train_ds, batch_size, shuffle=True, collate_fn=collate, num_workers=2)

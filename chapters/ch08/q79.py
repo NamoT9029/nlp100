@@ -15,6 +15,7 @@ PROJECT_ROOT = os.getenv('PROJECT_ROOT')
 def cal_acc(model, dev_dl, device):
     correct = 0
     total = 0
+    model.eval()
     with torch.no_grad():
         for x, y in dev_dl:
             x = x.to(device)
@@ -103,6 +104,7 @@ def main():
     # model = LSTM(input_size=vector_size, hidden_size=128, output_size=1, embedding=emb_ts, freeze=False).to(device)
     # model = CNN(input_size=vector_size, output_size=1, batch_size=batch_size, embedding=emb_ts, freeze=False).to(device)
     model = RNN(input_size=vector_size, hidden_size=128, output_size=1, embedding=emb_ts, freeze=False).to(device)
+    model.train()
     loss_fn = nn.BCELoss()
     optimizer = torch.optim.Adam(model.parameters(),lr=lr)
 
