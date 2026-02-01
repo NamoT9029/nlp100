@@ -22,6 +22,7 @@ dependencies = [
     "sudachidict-core>=20251022",
     "sudachipy>=0.6.10",
     "torch==2.5.1",
+    "transformers>=5.0.0",
 ]
 
 
