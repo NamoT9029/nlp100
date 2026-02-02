@@ -117,7 +117,6 @@ def main():
             preds = torch.argmax(probs, dim=1)
 
             total_acc += (preds == labels).float().mean().cpu()
-
     print(float(total_acc / len(dev_dl)))
 
 if __name__ == "__main__":

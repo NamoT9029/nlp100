@@ -89,7 +89,7 @@ def main():
 
             total_acc += (preds == labels).float().mean().cpu()
 
-    print({float(total_acc / len(dev_dl))})
+    print(float(total_acc / len(dev_dl)))
 
 if __name__ == "__main__":
     main()

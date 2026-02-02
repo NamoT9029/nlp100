@@ -31,7 +31,7 @@ def main():
     for i in range(len(INPUTS)):
         for j in range(i+1, len(INPUTS)):
             sim = cosine_similarity(embs[i], embs[j], dim=1)
-            print(f"{INPUTS[i]}\t{INPUTS[j]}\t: {sim}")
+            print(f"{INPUTS[i]}\t{INPUTS[j]}\t: {float(sim)}")
 
 if __name__ == "__main__":
     main()
