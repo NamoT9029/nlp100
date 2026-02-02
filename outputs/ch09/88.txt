@@ -1,0 +1,6 @@
+load model
+The movie was full of incomprehensibilities.	0
+The movie was full of fun.	1
+The movie was full of excitement.	1
+The movie was full of crap.	0
+The movie was full of rubbish.	0

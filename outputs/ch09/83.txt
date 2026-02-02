@@ -1,0 +1,6 @@
+The movie was full of fun.	The movie was full of excitement.	: 0.9880562424659729
+The movie was full of fun.	The movie was full of crap.	: 0.956871747970581
+The movie was full of fun.	The movie was full of rubbish.	: 0.9471566081047058
+The movie was full of excitement.	The movie was full of crap.	: 0.9540439248085022
+The movie was full of excitement.	The movie was full of rubbish.	: 0.9485612511634827
+The movie was full of crap.	The movie was full of rubbish.	: 0.9850466847419739
