@@ -32,5 +32,6 @@ def main():
 
     for s, pred in zip(INPUTS, preds):
         print(f"{s}\t{int(pred)}")
+        
 if __name__ == "__main__":
     main()
