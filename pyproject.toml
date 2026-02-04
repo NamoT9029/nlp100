@@ -16,12 +16,14 @@ dependencies = [
     "mecab-python3>=1.0.12",
     "pandas>=2.3.3",
     "python-dotenv>=1.2.1",
+    "pytorch-lightning>=2.6.1",
     "requests>=2.32.5",
     "scikit-learn>=1.7.2",
     "seaborn>=0.13.2",
     "sudachidict-core>=20251022",
     "sudachipy>=0.6.10",
     "torch==2.5.1",
+    "torchmetrics>=1.8.2",
     "transformers>=5.0.0",
 ]
 

@@ -18,7 +18,6 @@ def main():
     with torch.no_grad():
         outputs = model(**inputs)
         logits = outputs.logits
-
         mask_token_id = torch.where(inputs["input_ids"] == tokenizer.mask_token_id)[1]
 
         mask_logits = logits[0, mask_token_id, :]
@@ -30,7 +29,7 @@ def main():
 
         for i in range(top):
             token = tokenizer.decode(top_indices[0, i])
-            print(token)
+            print(token, float(top_probs[0, i]))
             
 if __name__ == "__main__":
     main()
