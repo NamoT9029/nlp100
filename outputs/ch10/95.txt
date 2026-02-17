@@ -1,0 +1,36 @@
+prompt: 
+('<|im_start|>system\n'
+ 'You are Qwen, created by Alibaba Cloud. You are a helpful '
+ 'assistant.<|im_end|>\n'
+ '<|im_start|>user\n'
+ 'What do you call a sweet eaten after dinner?<|im_end|>\n'
+ '<|im_start|>assistant\n'
+ 'The sweet food that is commonly eaten after dinner in many cultures around '
+ 'the world is known as a dessert or a dessert dish. These desserts can vary '
+ 'widely depending on cultural traditions and preferences. Some common '
+ 'examples include:\n'
+ '\n'
+ '1. **Cupcakes**: These are small, round cakes made of cream, sugar, and '
+ 'sometimes other ingredients like chocolate or fruit.\n'
+ '2. **Tiramisu**: A rich coffee-soaked cake with layers of espresso-soaked '
+ 'ladyfingers, mascarpone cheese, and cocoa powder.\n'
+ '3. **Panna Cotta**: A creamy custard-based dessert often served with ice '
+ 'cream.\n'
+ '4. **Ice Cream**:<|im_end|>\n'
+ '<|im_start|>user\n'
+ 'Please give me the plural form of the word with its spelling in reverse '
+ 'order.<|im_end|>\n'
+ '<|im_start|>assistant\n')
+
+input: What do you call a sweet eaten after dinner?
+
+output: The sweet food that is commonly eaten after dinner in many cultures around the world is known as a dessert or a dessert dish. These desserts can vary widely depending on cultural traditions and preferences. Some common examples include:
+
+1. **Cupcakes**: These are small, round cakes made of cream, sugar, and sometimes other ingredients like chocolate or fruit.
+2. **Tiramisu**: A rich coffee-soaked cake with layers of espresso-soaked ladyfingers, mascarpone cheese, and cocoa powder.
+3. **Panna Cotta**: A creamy custard-based dessert often served with ice cream.
+4. **Ice Cream**:
+
+input: Please give me the plural form of the word with its spelling in reverse order.
+
+output: Sure! The plural form of "cupcake" is "cupcakes."

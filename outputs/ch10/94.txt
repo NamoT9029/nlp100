@@ -1,0 +1,13 @@
+prompt:
+<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+What do you call a sweet eaten after dinner?<|im_end|>
+<|im_start|>assistant
+
+input:
+What do you call a sweet eaten after dinner?
+
+output: The sweet food that is commonly eaten after dinner in many cultures around the world is known as a dessert or a dessert dish. These desserts can vary widely depending on cultural traditions and preferences. Some common examples include:
+
+1. **Cupcakes**: These are small, round cakes made of cream, sugar, and sometimes other

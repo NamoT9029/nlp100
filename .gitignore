@@ -12,7 +12,8 @@ wheels/
 #data
 data/
 lightning_logs
-
+gpt2-ft
+gpt2-dpo
 
 # Virtual environments
 .venv

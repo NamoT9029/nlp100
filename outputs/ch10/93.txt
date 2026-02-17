@@ -1,0 +1,4 @@
+text: The movie was full of surprises	perplexity: 99.35493255487346
+text: The movies were full of surprises	perplexity: 126.480708931546
+text: The movie were full of surprises	perplexity: 278.879620238215
+text: The movies was full of surprises	perplexity: 274.6586517692294

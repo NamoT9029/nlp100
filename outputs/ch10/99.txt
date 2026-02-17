@@ -1,0 +1,25 @@
+{'loss': '0.6935', 'grad_norm': '0.05964', 'learning_rate': '4.5e-06', 'rewards/chosen': '-0.001271', 'rewards/rejected': '-0.0008412', 'rewards/accuracies': '0.3969', 'rewards/margins': '-0.0004301', 'logps/chosen': '-26.99', 'logps/rejected': '-27.25', 'logits/chosen': '-48.03', 'logits/rejected': '-50.29', 'epoch': '0.009501'}
+{'loss': '0.6911', 'grad_norm': '0.1018', 'learning_rate': '4.878e-06', 'rewards/chosen': '0.001133', 'rewards/rejected': '-0.003457', 'rewards/accuracies': '0.5375', 'rewards/margins': '0.00459', 'logps/chosen': '-27.04', 'logps/rejected': '-27.32', 'logits/chosen': '-48.24', 'logits/rejected': '-49.36', 'epoch': '0.019'}
+{'loss': '0.6892', 'grad_norm': '0.08457', 'learning_rate': '4.47e-06', 'rewards/chosen': '0.001604', 'rewards/rejected': '-0.007107', 'rewards/accuracies': '0.5766', 'rewards/margins': '0.008711', 'logps/chosen': '-27.03', 'logps/rejected': '-27.51', 'logits/chosen': '-47.65', 'logits/rejected': '-50.82', 'epoch': '0.0285'}
+{'loss': '0.6906', 'grad_norm': '0.06052', 'learning_rate': '3.825e-06', 'rewards/chosen': '-0.001693', 'rewards/rejected': '-0.008705', 'rewards/accuracies': '0.5266', 'rewards/margins': '0.007012', 'logps/chosen': '-27.08', 'logps/rejected': '-27.35', 'logits/chosen': '-48.06', 'logits/rejected': '-49.48', 'epoch': '0.038'}
+{'loss': '0.687', 'grad_norm': '0.03976', 'learning_rate': '3.02e-06', 'rewards/chosen': '0.004497', 'rewards/rejected': '-0.01048', 'rewards/accuracies': '0.5578', 'rewards/margins': '0.01498', 'logps/chosen': '-26.98', 'logps/rejected': '-27.36', 'logits/chosen': '-47.1', 'logits/rejected': '-49.08', 'epoch': '0.04751'}
+{'loss': '0.6832', 'grad_norm': '0.06948', 'learning_rate': '2.152e-06', 'rewards/chosen': '0.006176', 'rewards/rejected': '-0.01738', 'rewards/accuracies': '0.5844', 'rewards/margins': '0.02356', 'logps/chosen': '-26.94', 'logps/rejected': '-27.5', 'logits/chosen': '-46.14', 'logits/rejected': '-48.97', 'epoch': '0.05701'}
+{'loss': '0.689', 'grad_norm': '0.06476', 'learning_rate': '1.326e-06', 'rewards/chosen': '-0.001116', 'rewards/rejected': '-0.01381', 'rewards/accuracies': '0.5437', 'rewards/margins': '0.01269', 'logps/chosen': '-27.03', 'logps/rejected': '-27.43', 'logits/chosen': '-46.89', 'logits/rejected': '-48.47', 'epoch': '0.06651'}
+{'loss': '0.6853', 'grad_norm': '0.05871', 'learning_rate': '6.421e-07', 'rewards/chosen': '0.004888', 'rewards/rejected': '-0.01584', 'rewards/accuracies': '0.5594', 'rewards/margins': '0.02073', 'logps/chosen': '-27.03', 'logps/rejected': '-27.53', 'logits/chosen': '-46.53', 'logits/rejected': '-48.63', 'epoch': '0.07601'}
+{'loss': '0.6879', 'grad_norm': '0.08529', 'learning_rate': '1.82e-07', 'rewards/chosen': '0.0007296', 'rewards/rejected': '-0.01466', 'rewards/accuracies': '0.5406', 'rewards/margins': '0.01539', 'logps/chosen': '-27.09', 'logps/rejected': '-27.49', 'logits/chosen': '-47.04', 'logits/rejected': '-48.55', 'epoch': '0.08551'}
+{'loss': '0.6857', 'grad_norm': '0.08282', 'learning_rate': '1.523e-09', 'rewards/chosen': '0.004202', 'rewards/rejected': '-0.01571', 'rewards/accuracies': '0.5531', 'rewards/margins': '0.01991', 'logps/chosen': '-27.02', 'logps/rejected': '-27.49', 'logits/chosen': '-46.12', 'logits/rejected': '-48.08', 'epoch': '0.09501'}
+{'eval_loss': '0.6926', 'eval_runtime': '11.95', 'eval_samples_per_second': '72.97', 'eval_steps_per_second': '2.343', 'eval_rewards/chosen': '-0.01323', 'eval_rewards/rejected': '-0.01857', 'eval_rewards/accuracies': '0.5089', 'eval_rewards/margins': '0.005337', 'eval_logps/chosen': '-28.33', 'eval_logps/rejected': '-28.45', 'eval_logits/chosen': '-47.56', 'eval_logits/rejected': '-49.02', 'epoch': '0.09501'}
+{'train_runtime': '171.6', 'train_samples_per_second': '37.31', 'train_steps_per_second': '0.583', 'train_loss': '0.6882', 'epoch': '0.09501'}
+{'epoch': 0.09501187648456057,
+ 'eval_logits/chosen': -47.5640754699707,
+ 'eval_logits/rejected': -49.0211181640625,
+ 'eval_logps/chosen': -28.326873779296875,
+ 'eval_logps/rejected': -28.446212768554688,
+ 'eval_loss': 0.6926476955413818,
+ 'eval_rewards/accuracies': 0.5089285969734192,
+ 'eval_rewards/chosen': -0.013228798285126686,
+ 'eval_rewards/margins': 0.00533705111593008,
+ 'eval_rewards/rejected': -0.01856585033237934,
+ 'eval_runtime': 11.9633,
+ 'eval_samples_per_second': 72.889,
+ 'eval_steps_per_second': 2.34}
